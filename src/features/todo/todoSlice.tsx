@@ -8,6 +8,8 @@ export interface Todo {
     completed: boolean;
   }
 
+  // todo slice changed 1
+
 const initialState = [] as Todo[];
 
 export const todoSlice = createSlice({
