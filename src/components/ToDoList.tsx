@@ -8,6 +8,7 @@ import { useAppSelector, useAppDispatch } from '../hooks.ts'
 import Todo from '../features/todo/todoSlice'
 import { AppDispatch, RootState } from '../store';
 
+// new changes
 
 interface TodoType {
     id: string;
