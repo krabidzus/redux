@@ -8,7 +8,7 @@ export interface Todo {
     completed: boolean;
   }
 
-  // todo slice changed 2 newBranch1
+  // todo slice changed newBranch222
 
 const initialState = [] as Todo[];
 
